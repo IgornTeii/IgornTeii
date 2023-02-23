@@ -1,4 +1,3 @@
-Ola meu nome e Igor 
-Tenho 17 anos 
-Sou bem comunicativo 
-gosto de trabalhar em equipe 
+Ola meu nome é Igor 
+Tenho 18 anos
+Estou cursando engenharia de software é cursos de kotlin, java e flutter
