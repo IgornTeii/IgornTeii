@@ -13,4 +13,4 @@
 
 # <samp>Tech Stack</samp>
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,javascript,typescript,nodejs,react,aws,mysql,docker,mongodb,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,typescript,nodejs,react,aws,mysql,docker,mongodb,figma)](https://skillicons.dev)
